@@ -1,0 +1,8 @@
+<suite name = "Parallel Test Suite" Parallel = "classes" thread-count = "2">
+<test name = "sanity test">
+<classes>
+<class name = "seleniumexamples.Testngclass1"></class>
+<class name = "seleniumexamples.Testngclass2"></class>
+</classes>
+</test>
+</suite>

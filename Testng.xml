@@ -1,0 +1,8 @@
+<suite name = "HManagement suite">
+<test name = "sanity tests">
+<classes>
+<class name = "seleniumexamples.Testngclass1"></class>
+<class name = "seleniumexamples.Testngclass2"></class>
+</classes>
+</test>
+</suite>
